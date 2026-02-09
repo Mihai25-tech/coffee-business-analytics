@@ -172,6 +172,7 @@ README.md (this file)
 ## Links
 
 **Live Dashboard:** https://public.tableau.com/app/profile/mykhailo.busniak/
+
 **My LinkedIn:** https://www.linkedin.com/in/mykhailo-busniak-data-analyst/  
 ## Notes
 This project is based on real work I did as a junior data analyst for a Ukrainian coffee e-commerce company from May to October 2025. I was responsible for tracking performance, building financial reports, and analyzing customer behavior.
