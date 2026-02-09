@@ -168,7 +168,6 @@ Total time: about 72 hours over 3 weeks.
 /data
   - Coffee_Business_Analytics.xlsx (source calculations)
 README.md (this file)
-```
 
 ## Links
 
