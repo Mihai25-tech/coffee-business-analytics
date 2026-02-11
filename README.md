@@ -14,7 +14,7 @@ The company operated three revenue channels: direct-to-consumer (website and soc
 - 1,685 unique customers
 - 3,470 transactions
 - 3 revenue channels: B2C (50%), B2B (37%), Service (13%)
-- 645K UAH net loss
+- 166K UAH net loss
 
 The goal was to identify what's driving the losses and where the retention problems are.
 ## What I Found
@@ -34,9 +34,9 @@ These numbers match e-commerce benchmarks for Ukraine during 2025, accounting fo
 
 ### Profitability Issues
 Despite generating 4.67M in revenue, the business lost 645K UAH. The main cost drivers:
-- COGS: 2.68M (57% of revenue)
+- COGS: 2.217M (47% of revenue)
 - Payroll: 1.23M (10-person team)
-- Marketing: 512K
+- Marketing: 496K
 - Operating expenses: 609K
 
 The team built a reserve fund (6% of monthly revenue set aside), which reached 280K by October. This covers about one month of fixed costs.
@@ -62,7 +62,7 @@ Deep dive into customer behavior. Full cohort retention analysis, conversion fun
 Only 6% of customers make 4+ orders, which is the definition of "loyal" for this business.
 
 ### Dashboard 3: Financial Performance
-P&L waterfall chart showing the flow from 4.67M revenue down to -645K net loss. Also includes revenue breakdown by channel and the largest expense categories.
+P&L waterfall chart showing the flow from 4.67M revenue down to -166K net loss. Also includes revenue breakdown by channel and the largest expense categories.
 
 The waterfall makes it clear: COGS and payroll are eating most of the revenue.
 
